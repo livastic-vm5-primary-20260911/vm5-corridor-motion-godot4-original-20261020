@@ -1,0 +1,18 @@
+# Godot editor caches and generated user state
+.godot/
+.import/
+*.import
+*.log
+.DS_Store
+# Never commit identity, payout, source from clients or secrets
+.env
+.env.*
+accounts/
+credentials.json
+*.pem
+*.key
+*.p12
+*.wallet
+private/
+*.zip
+*.tar.gz
